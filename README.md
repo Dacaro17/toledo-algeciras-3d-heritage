@@ -1,7 +1,14 @@
-# 🏛️ Toledo & Algeciras 3D Heritage Reconstruction
+# 🏛️ Toledo & Algeciras - 3D Heritage Reconstruction
 
 Este repositorio documenta el desarrollo completo de un proyecto de reconstrucción urbana patrimonial mediante modelado 3D, impresión digital y técnicas de inteligencia artificial. El trabajo se centra en los recintos históricos de Toledo y Algeciras, modelados en Blender, validados con impresión 3D FDM y publicados como recurso abierto para su uso educativo, museográfico y social.
-Nota: El repositorio esta vinculado a un Trabajo Fin de Máster, en el máster Humanidades Digitales: Métodos y buenas prácticas de la UNED
+
+
+_**NOTA**: El repositorio esta vinculado a un Trabajo Fin de Máster, en el Máster en Humanidades Digitales: Métodos y buenas prácticas por la UNED._
+
+
+## 👤 Autoría
+* Realizado por Daniel Castilla Rodríguez.
+* Dirigido por Alfredo Miguel Maximiano Castillejo (departamento de Prehistoria y Arqueología) y María Luisa de Lázaro Torres (departamento de Geografía).
 
 ## 📌 Objetivos
 - Representar fases históricas de ambos recintos mediante un sistema modular.
@@ -22,6 +29,3 @@ Nota: El repositorio esta vinculado a un Trabajo Fin de Máster, en el máster H
 - Blender 3.6+
 - Cura 5.3 / Creality Print
 - Impresoras FDM tipo Ender-3 o K1C
-
-## 👤 Autoría
-Daniel Castilla Rodríguez, máster en Humanidades Digitales: Métodos y buenas prácticas de la UNED
