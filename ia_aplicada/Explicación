@@ -1,0 +1,30 @@
+## 6.4 Uso de IA como apoyo técnico
+
+Se incorporó de manera experimental la inteligencia artificial como herramienta heurística. A través de consultas a modelos como **ChatGPT 4o**, se obtuvieron sugerencias para resolver problemas técnicos —por ejemplo, el uso de *brim* para mejorar la adherencia o ajustes de velocidad para piezas delicadas— (OpenAI, 2025).
+Es importante destacar que estas recomendaciones no han reemplazado el juicio del autor, pero han agilizado la toma de decisiones en la fase de optimización, actuando como una **checklist inteligente**.
+
+Además, se valoró el potencial de la IA en la impresión 3D de patrimonio, tanto para **autoajuste de impresoras** como para **generación de modelos preliminares a partir de datos incompletos** (Zewe et al., 2022; Baker, 2024). La impresora **Creality K1C**, equipada con cámara e IA, demostró capacidades de **supervisión y ajuste automáticos**, elevando la precisión y reduciendo errores. Este tipo de herramientas representa un **salto cualitativo en proyectos de arqueología virtual**, abriendo nuevas vías de desarrollo en la intersección entre patrimonio e inteligencia artificial (Forte, 2025).
+
+---
+
+## 6.5 Interacción con soluciones de IA como apoyo en la optimización de procesos de impresión
+
+Uno de los aspectos más relevantes e innovadores de este proyecto ha sido la **incorporación experimental de soluciones basadas en IA** en las distintas fases del flujo de trabajo, especialmente en la **optimización de procesos de impresión 3D**. Aunque su aplicación en el ámbito patrimonial aún está en desarrollo, los resultados obtenidos demuestran que estas herramientas no solo son útiles como soporte técnico, sino que también abren nuevas vías de **experimentación metodológica**.
+
+Durante las primeras fases de impresión, se recurrió a modelos generativos como **ChatGPT 4o** para resolver problemas comunes en la impresión FDM, tales como **fallos de adherencia, deformaciones térmicas o elección de patrones de relleno**. Las recomendaciones obtenidas funcionaron como **sistema de validación cruzada** para decisiones técnicas: por ejemplo, se sugirió reforzar la adherencia mediante *brim*, controlar la temperatura ambiental o ajustar la velocidad de las primeras capas —estrategias que posteriormente se comprobaron efectivas (Malik et al., 2021; Stojković et al., 2023)—.
+
+A medida que el proceso se perfeccionó, se incorporó la impresora **Creality K1C**, que integra **una cámara asistida por inteligencia artificial**. Esta cámara analiza en tiempo real la impresión, detectando errores como *warping*, fallos de extrusión, despegue de capas o estructuras deformadas, y en caso necesario **pausa la impresión para evitar fallos críticos** (Creality, 2024). Además, el software integrado permite **ajustes dinámicos** de parámetros como aceleración y temperatura, según el comportamiento observado durante el proceso.
+
+Este sistema fue especialmente útil en piezas de **geometría compleja o topografía irregular**, como los tramos amurallados de Toledo y Algeciras, donde pequeños defectos acumulados podían comprometer la fidelidad final del modelo. La capacidad de **supervisión activa y ajuste dinámico** supone un gran avance respecto a impresoras anteriores, donde la ejecución del *g-code* es estática y no contempla retroalimentación en tiempo real.
+
+Gracias a la combinación de esta impresora con **capacidades avanzadas de monitorización** y un enfoque iterativo, se logró **reducir la tasa de errores** significativamente. Frente a una tasa de fallos del 20–30 % en las primeras versiones (con Ender-3), las sesiones con la K1C alcanzaron un **índice de éxito superior al 90 %**, gracias a sus mecanismos automatizados y a la intervención técnica. Este incremento en la fiabilidad no solo optimizó el uso de recursos materiales (filamento y tiempo), sino que permitió la **producción de múltiples versiones para el refinamiento geométrico** del modelo.
+
+El proyecto también exploró **IA creativa** a través de herramientas como **Zoo Design Studio**, que permite generar geometrías 3D paramétricas a partir de descripciones textuales. Aunque no se integró directamente en este flujo de trabajo, se identificó su potencial para **reconstrucción patrimonial basada en fuentes incompletas o textuales**, donde la IA podría generar una hipótesis inicial que luego sería validada o ajustada por especialistas en impresión 3D. Este enfoque colaborativo, donde **la IA propone y el experto decide**, representa una evolución metodológica prometedora en el modelado arqueológico dentro de las **humanidades digitales** (Zoo, 2024; 3Dnatives, 2023).
+
+En el ámbito académico, estudios recientes como el de Arias et al. (2022) subrayan la importancia de los **modelos 3D como recursos didácticos** en arqueología, especialmente cuando se vinculan a **entornos interactivos y visualización inmersiva**. La integración de IA en estos procesos no solo mejora la eficiencia técnica, sino que también **potencia el valor pedagógico** de los modelos, adaptándolos a distintos niveles de detalle y públicos.
+
+Investigaciones como las de Zewe et al. (2022) destacan cómo los algoritmos de **Machine Learning aplicados a la impresión 3D** permiten ajustes automáticos capa por capa, optimizando los resultados sin necesidad de intervención humana constante. La llegada de estas tecnologías a impresoras de escritorio como la K1C **marca una transición hacia sistemas de impresión auto adaptativos**, capaces de supervisar, corregir y aprender en tiempo real.
+
+En resumen, la incorporación de soluciones de IA en este trabajo ha funcionado tanto como **herramienta de apoyo técnico y supervisión de calidad**, como **estrategia para el desarrollo futuro**. Lejos de sustituir al investigador, la IA proporciona un entorno ampliado donde la **interpretación histórica y la optimización técnica se ven asistidas y potenciadas** por capacidades automatizadas y contextuales.
+
+---
