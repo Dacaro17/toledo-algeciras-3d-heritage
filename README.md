@@ -2,6 +2,8 @@
 
 Este repositorio documenta el desarrollo completo de un proyecto de reconstrucción urbana patrimonial mediante modelado 3D, impresión digital y técnicas de inteligencia artificial. El trabajo se centra en los recintos históricos de Toledo y Algeciras, modelados en Blender, validados con impresión 3D FDM y publicados como recurso abierto para su uso educativo, museográfico y social.
 
+Además, se ha publicado uno de los modelos destacados —la Puerta Monumental de Gibraltar (Algeciras)— en Sketchfab, donde puede visualizarse en 3D de forma interactiva:
+👉 Ver el modelo en Sketchfab (https://skfb.ly/pyywJ)
 
 _**NOTA**: El repositorio esta vinculado a un Trabajo Fin de Máster, en el Máster en Humanidades Digitales: Métodos y buenas prácticas por la UNED._
 
